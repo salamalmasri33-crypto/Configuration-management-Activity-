@@ -1,0 +1,2 @@
+print("Salam, raghad")
+
